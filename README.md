@@ -1,2 +1,2 @@
-# community
-DAT LInux community discussions
+# Community
+DAT Linux forum
